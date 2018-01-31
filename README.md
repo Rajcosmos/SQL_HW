@@ -1,3 +1,6 @@
+####### Hi, each line has SQL query cut and pasted from SQL workbench### 
+
+
 1a. select first_name,last_name from actor;
 
 1b. select concat(upper(first_name),' ',upper(last_name)) as 'Actor Name' from actor;
