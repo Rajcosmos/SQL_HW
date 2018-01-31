@@ -1,4 +1,4 @@
-####### Hi, each line has SQL query cut and pasted from SQL workbench### 
+####### Hi, each line has a SQL query for a set of questions, cutted and pasted from SQL workbench### 
 
 
 1a. select first_name,last_name from actor;
